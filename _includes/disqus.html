@@ -1,12 +1,9 @@
-<section class="comment-area">
-	<div class="comment-wapper">
-		{% if site.intense_databese %}
-			<div id="disqus_thread" class="article-comments"></div>
-			<script type="text/javascript">
-				var idcomments_acct = '{{ site.intense_databese }}';
-				var idcomments_post_id;
-				var idcomments_post_url;
-			</script>
-		{% endif %}
-	</div>
-</section>
+{% if site.intensedatabese_comments != false %}
+<script  type='text/javascript'>
+var idcomments_acct = '{{ site.intense_databese }}';
+var idcomments_post_id = '{{ page.url }}';
+var idcomments_post_url;
+</script>
+<span id="IDCommentsPostTitle" style="display:none"></span>
+<script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
+{% endif %}

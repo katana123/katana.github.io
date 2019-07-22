@@ -9,4 +9,6 @@ categories: jekyll update
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以前读书，总不喜欢读序言。这回再看这本书的时候，我是从序言（缀言）开始看的。序言中，徐梵澄讲了很多他翻译这本书相关的故事，以及他对尼采和这本书的理解，这对我理解书中的内容起到的很大的帮助。<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;该午休了，晚上再写吧。
 
+{% if site.intensedatabese_comments %}
 {% include disqus.html %}
+{% endif %} 
