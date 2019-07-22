@@ -1,9 +1,15 @@
+<section class="comment-area">
+	<div class="comment-wapper">
 {% if site.intensedatabese_comments != false %}
+<div id="disqus_thread" class="article_comment"></div>
 <script  type='text/javascript'>
 var idcomments_acct = '{{ site.intense_databese }}';
 var idcomments_post_id = '{{ page.url }}';
-var idcomments_post_url;
+var idcomments_post_url = '{{ page.url }}';
+var idcomments_post_title = '{{ page.title }}';
 </script>
 <span id="IDCommentsPostTitle" style="display:none"></span>
 <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
 {% endif %}
+	</div>
+</section>

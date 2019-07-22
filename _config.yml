@@ -30,7 +30,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-intense_databese: 0WfHTsaJMK7dwAXNRud7
+intense_databese: 9dUhJPc2IPROD1yvtRU6
 intensedatabese_comments: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -43,3 +43,11 @@ intensedatabese_comments: true
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+comment:
+  gitalk: true
+  gitalk_clientID: '78b4d4d7e2cfdc8cb77d'
+  gitalk_Secret: '31393ecda8d5f2bd9f913ebacfa76eef05be4491'
+  gitalk_repo: 'katana123.github.io'
+  gitalk_owner: 'katana123'
+  gitalk_admin: 'katana123'
+  distractionFreeMode: true
