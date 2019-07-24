@@ -1,0 +1,17 @@
+---
+layout: post
+title: 《苏鲁支语录》读书笔记（前言）
+date:  2018-02-07 21:16:00 +0900
+description: Zara！
+img: post-1.jpg # Add image post (optional)
+tags: [随笔]
+author: Katana # Add name author (optional)
+essays: true
+---
+
+{{site.label1}} <a href="https://github.com/katana123/katana123.github.io" target="\_blank">Katana Chao</a> {{site.label2}}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最近在读尼采的《苏鲁支语录》，徐梵澄先生的译本，也就是《查拉图斯特拉如是说》。有很长的一段时间没有认真读书了，如今开这一个博客，记录些读书的感想，就从尼采的《苏》开始吧。<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这本书买了有两三年了，至今还没有通读过。每次读这本书，总觉得其中的语言不是很容易理解，也是因为近代汉语变化的原因。徐梵澄说鲁迅翻译用的语言古奥，如今我们觉得徐梵澄的语言也难懂，语言随着时代在变化，这大概也不是什么了不起的事情，尽力去读也就行了。如今尼采的这本书有用语更接近现在的译本，但听说徐梵澄的译本最有“酒神精神”，郑振铎先生说“他的译笔和尼采的作风是那样的相同，我们似不必再多加赞美。”于是我也就选择了这本，如今读它，虽有许多书中的思想不甚理解，但文字方面的障碍已经比之前少很多了，能感受到其中的文采的美。<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以前读书，总不喜欢读序言。这回再看这本书的时候，我是从序言（缀言）开始看的。序言中，徐梵澄讲了很多他翻译这本书相关的故事，以及他对尼采和这本书的理解，这对我理解书中的内容起到的很大的帮助。<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;该午休了，晚上再写吧。
