@@ -89,7 +89,7 @@ links1:
     url:          /blogdemo/myblog/essays
     type:         essays
     external:     false
-  - name:         Jekyll
+  - name:         Music
     url:          /blogdemo/myblog/jekyll
     type:         jekyll
     external:     false
@@ -101,3 +101,5 @@ blog_3:    jekyll
 
 
 #permalink: /:year/:month/:day/:title.html
+
+port: 5000
